@@ -13,7 +13,7 @@ The following code snippets will show what you can do (these show imperative cod
 [[the-person-entity]]
 == The person entity
 
-The enity that is used in these examples is a `Person` entity.
+The entity that is used in these examples is a `Person` entity.
 This entity has a `birthDate` and an `age` property.
 Whereas the birthdate is fix, the age depends on the time when a query is issued and needs to be calculated dynamically.
 
